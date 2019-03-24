@@ -1,2 +1,5 @@
 # kotlin_basics
-This repository contains the Kotlin Basics code, that is easy to understand for the Kotlin Beginners.
+Kotlin is a cross-platform, statically typed, general purpose programming language with type inference.
+Google announcing support Kotlin - a new programming language for Android Development.
+
+In this repository you'll learn the basics of Kotlin.
