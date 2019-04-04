@@ -1,8 +1,8 @@
 fun main() {
-    var a3 = Alien()
+    val a3 = Alien()
     a3.skills = "Kotlin"
 
-    var a5 = Alien()
+    val a5 = Alien()
     a5.skills = a3.addSkills(a3)
     a5.printSkill()
 }
